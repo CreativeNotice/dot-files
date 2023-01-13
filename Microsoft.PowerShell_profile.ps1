@@ -1,0 +1,1 @@
+oh-my-posh init pwsh --config ~/.CreativeNotice.omp.json | Invoke-Expression
